@@ -36,3 +36,9 @@ footer {
   margin-right: 50px;
   padding: 50px;
 }
+p{
+  color: white;
+  text-align: justify;
+  font-size: 18px;
+}
+.elemek{font-weight: bold;}
