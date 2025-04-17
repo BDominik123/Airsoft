@@ -36,7 +36,7 @@ footer {
   margin-top: 10px;
 }
 #oldal{
-  background-color: rgba(255, 255, 255, 25%);
+  background-color: rgba(255, 255, 255, 75%);
   margin-top: 100px;
   margin-left: 50px;
   margin-right: 50px;
@@ -63,4 +63,17 @@ h2{
   width: 50px;
   display: block;
   margin: auto;
+}
+a{
+  color: white;
+}
+a:visited{
+  color: rgb(218, 218, 218);
+
+}
+a:hover{
+  color: gray;
+}
+a:active{
+  color: red;
 }
