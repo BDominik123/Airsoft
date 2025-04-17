@@ -8,8 +8,13 @@ li {
   color: white;
 }
 
-#csapat {
+#csapat{
   max-width: 50%;
+  width: 400px;
+  float: right;
+  max-height: 50%;
+  margin-left: 25px;
+  border: 6px dashed white;
 }
 
 footer {
@@ -50,4 +55,7 @@ h1{
 }
 h2{
   color: white;
+}
+.ev{
+  font-style: italic;
 }
