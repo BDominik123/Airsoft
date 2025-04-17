@@ -59,3 +59,8 @@ h2{
 .ev{
   font-style: italic;
 }
+#html_icon{
+  width: 50px;
+  display: block;
+  margin: auto;
+}
